@@ -1,0 +1,68 @@
+CSS 
+
+
+HTML -> page -> design -> CSS 
+
+within the html ? 
+outside the html ? 
+
+1) internal CSS  { HTML -> CSS Code  } { 1 file HTML }
+2) external CSS  { HTML , CSS -> code } { 2 file .HTML , .CSS }
+
+
+how to write css code ? 
+
+internal -> 
+HTML -> CSS 
+
+where? 
+    <style> -> we can write anywhere 
+
+    standard practice -> 
+
+how? 
+
+    name:value 
+    property:value 
+
+
+    color:red
+
+
+TAG BASE  => p  => automatically apply 
+CLASS BASE => .p => class="" 
+
+font ---->
+    color 
+    font-size
+    font-family 
+    font-weight 
+    text-decoration
+    text-transform
+    font : font-size font-family    
+
+
+--------------------------------------------------------------------------------------------
+
+Selectors --> 
+            tag   P{} 
+            id    #p{}
+            class  .p{}
+            univarsal *{ } 
+
+
+
+
+--------------------------------------------------------------------------------------------
+how to manage container 
+        div 
+--------------------------------------------------------------------------------------------
+border :
+            border-radius 
+            border-style: 
+            border-color
+            border-width
+            border : style width color
+
+--------------------------------------------------------------------------------------------
+
