@@ -91,6 +91,38 @@ color values -->
         4) hex #ffffff #00000  #e6ca43 
         5) hsl 
 
+----------------------------------------------------------------------------------------------
+
+background -> 
+        background-color 
+        background-image:url("")
+        background-repeat : no-repeat 
+        background-size:
+        background-attachment 
+        background: url no-repeat top right;
+
+
+----------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
